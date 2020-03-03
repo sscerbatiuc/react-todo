@@ -1,0 +1,22 @@
+body {
+    justify-content: center;
+    align-items: center;
+}
+
+.logo {
+    margin: 0 auto;
+    /*width: 50px;*/
+    /*position: relative;*/
+    /*top: 50px;*/
+}
+
+.to-do {
+    text-align: center;
+    height: auto;
+}
+
+.header {
+    color: black;
+    margin: 0 auto;
+    text-transform: uppercase;
+}
