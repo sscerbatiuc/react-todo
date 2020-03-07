@@ -15,7 +15,7 @@ export default class ToDoItem extends Component {
                     <p className="text">{this.props.todo}</p>
                 </div>
                 <div className="col-lg-1">
-                    <Button variant="danger" onClick={this.props.remove}>Delete</Button>
+                    <Button variant="danger" onClick={this.props.delete}>Delete</Button>
                 </div>
             </div>
         );

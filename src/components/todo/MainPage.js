@@ -69,7 +69,7 @@ class MainPage extends Component {
                         return <ToDoItem
                             key={index}
                             todo={item.todo}
-                            remove={this.remove.bind(this, index)}
+                            delete={this.remove.bind(this, index)}
                         />
                     }
                 )}
