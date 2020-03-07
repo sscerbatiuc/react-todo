@@ -1,3 +1,4 @@
+![React To-Do](https://github.com/sscerbatiuc/react-todo/blob/master/public/docs/react%20to-do%20logo.png)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
